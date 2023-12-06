@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheForsakenSoldier
 - 👀 I’m interested in Creating 
-- 🌱 I’m currently learning Blockchain Technologies
+- 🌱 I’m currently learning EVERYTHING
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me IFlearnandwork@protonmail.com
 

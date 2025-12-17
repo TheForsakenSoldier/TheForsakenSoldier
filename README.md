@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheForsakenSoldier
 - 👀 I’m interested in Creating 
-- 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on Anything
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on intresting projects
 - 📫 How to reach me IFlearnandwork@protonmail.com
 
 <!---
